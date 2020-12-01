@@ -1,6 +1,9 @@
-# simple_calculator
+# Sample Clculator
 
-A new Flutter application.
+My First pplication.
+
+# Perview on youtube :
+https://youtu.be/AuNpWULDj5g
 
 ## Getting Started
 
