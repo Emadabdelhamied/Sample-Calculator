@@ -1,6 +1,6 @@
 # Sample Clculator
 
-My First pplication.
+My First application.
 
 # Perview on youtube :
 https://youtu.be/AuNpWULDj5g
